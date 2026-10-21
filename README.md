@@ -46,7 +46,7 @@ Tras el ciclo inicial de sincronización, se verificó en el portal de Microsoft
 
 ![Usuarios sincronizados en Entra ID](03-EntraUserSincronizados.png)
 
-![Grupos sincronizados en Entra ID](04-EntraGruposSincronizados.png)
+![Grupos sincronizados en Entra ID](04-EntraGroupsSincronizados.png)
 
 ---
 
