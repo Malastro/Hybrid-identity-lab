@@ -45,6 +45,7 @@ Tras el ciclo inicial de sincronización, se verificó en el portal de Microsoft
 * Grupo de seguridad instanciado con origen `Windows Server AD` preservando sus miembros de forma íntegra.
 
 ![Usuarios sincronizados en Entra ID](03-EntraUserSincronizados.png)
+
 ![Grupos sincronizados en Entra ID](04-EntraGruposSincronizados.png)
 
 ---
