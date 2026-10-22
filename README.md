@@ -1,4 +1,4 @@
-# Despliegue de Identidad Híbrida: Windows Server 2022 AD DS & Microsoft Entra ID
+# Lab_01 Despliegue de Identidad Híbrida: Windows Server 2022 AD DS & Microsoft Entra ID
 
 ## 1. Descripción del proyecto
 
