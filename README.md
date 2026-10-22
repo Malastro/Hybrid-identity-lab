@@ -23,9 +23,9 @@ El proyecto también documenta la configuración realizada, las decisiones técn
 
 ### Fase 1. Estructura local de Active Directory y aprovisionamiento
 
-Se creó una estructura de Unidades Organizativas (OUs) bajo `OU=Montepinar`, con las ramas `OU=Usuarios` y `OU=Grupos`.
+Se creó una estructura de Unidades Organizativas (OUs) bajo OU=Montepinar, con las ramas OU=Usuarios y OU=Grupos.
 
-Mediante PowerShell se crearon dos cuentas de prueba, Antonio Recio y Enrique Pastor, y un grupo de seguridad denominado `Directiva-Montepinar`.
+Mediante PowerShell se crearon las cuentas de prueba y el grupo de seguridad Directiva-Montepinar.
 
 Se configuró el atributo `userPrincipalName` de las cuentas utilizando el sufijo UPN elegido para el laboratorio, con el objetivo de facilitar su correspondencia con las identidades del entorno cloud.
 
@@ -36,6 +36,12 @@ Se configuró el atributo `userPrincipalName` de las cuentas utilizando el sufij
 
 ![Estructura de las OU en Active Directory](01-AD-Estructura.png)
 ![Estructura de los grupos en Active Directory](01.5-Grupo.png)
+
+### Automatización con PowerShell
+
+El siguiente script automatiza la creación inicial de usuarios y grupos en Active Directory.
+
+📄 [Ver script de aprovisionamiento](./Script-Aprovisionamiento.ps1)
 
 
 ### Fase 2. Configuración de Microsoft Entra Connect Sync
