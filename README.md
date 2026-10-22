@@ -29,14 +29,14 @@ Mediante PowerShell se crearon dos cuentas de prueba, Antonio Recio y Enrique Pa
 
 Se configuró el atributo `userPrincipalName` de las cuentas utilizando el sufijo UPN elegido para el laboratorio, con el objetivo de facilitar su correspondencia con las identidades del entorno cloud.
 
-![Estructura de las OU en Active Directory](01-AD-Estructura.png)
-![Estructura de los grupos en Active Directory](01.5-Grupo.png)
-
-
 **Evidencias:**
 - Estructura de OUs en Active Directory.
 - Grupo de seguridad local.
 - Script de aprovisionamiento con PowerShell.
+
+![Estructura de las OU en Active Directory](01-AD-Estructura.png)
+![Estructura de los grupos en Active Directory](01.5-Grupo.png)
+
 
 ### Fase 2. Configuración de Microsoft Entra Connect Sync
 
