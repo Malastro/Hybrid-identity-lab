@@ -1,7 +1,12 @@
 # Despliegue de Identidad Híbrida: Windows Server 2022 AD DS & Microsoft Entra ID
 
-## 1. Descripción del Proyecto
-Implementación y securización de una arquitectura de identidad híbrida para la organización ficticia *Mirador de Montepinar S.L.* Mítica serie en donde ha ocurrido todo lo imaginable, sin embargo, aunque alguna vez hayan actuado como una gran empresa, nunca han tenido su propio tenant. El objetivo es centralizar la gestión de identidades corporativas en un Directorio Activo on-premises y sincronizarlas de forma controlada y selectiva hacia Microsoft Entra ID mediante el agente **Microsoft Entra Connect Sync**.
+## 1. Descripción del proyecto
+
+Laboratorio personal de identidad híbrida que integra Windows Server 2022 Active Directory Domain Services (AD DS) con Microsoft Entra ID mediante Microsoft Entra Connect Sync.
+
+El objetivo es practicar la creación y organización de identidades en un dominio local, automatizar el aprovisionamiento básico de usuarios y grupos con PowerShell y comprobar su sincronización con el entorno cloud.
+
+El laboratorio utiliza una organización ficticia, *Mirador de Montepinar SL*, mítica serie donde ha ocurrido casi todo lo imaginable y que por primera vez, van a contar con una solución centralizada para aprovisionar y desaprovisionar usuarios. El objetivo tambien es documentar la configuración realizada, las decisiones técnicas y las comprobaciones efectuadas durante el despliegue.
 
 ---
 
