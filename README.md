@@ -1,12 +1,9 @@
 # Lab_01 Despliegue de Identidad Híbrida: Windows Server 2022 AD DS & Microsoft Entra ID
 
 ## 1. Descripción del proyecto
+Tras asumir la presidencia de la comunidad con mano de hierro, Antonio Recio descubre que la gestión de vecinos, empleados de Mariscos Recio y personal de mantenimiento se lleva en notas adhesivas pegadas en la garita de Coque y servilletas del Max & Henry. Ante este descontrol operativo —y con las sospechas permanentes sobre las actividades del moroso del 2º C—, la junta directiva aprueba la modernización urgente de la infraestructura tecnológica mediante la centralización de identidades en Active Directory Domain Services (AD DS) y su extensión hacia la nube corporativa con Microsoft Entra ID.
 
-Laboratorio personal de identidad híbrida que integra Windows Server 2022 Active Directory Domain Services (AD DS) con Microsoft Entra ID mediante Microsoft Entra Connect Sync.
-
-El objetivo es practicar la creación y organización de identidades en un dominio local, automatizar el aprovisionamiento básico de usuarios y grupos con PowerShell y comprobar su sincronización con el entorno cloud.
-
-El laboratorio utiliza una organización ficticia, *Mirador de Montepinar SL*, inspirada en la serie *La que se avecina*. En este escenario, la empresa aborda la centralización de la gestión de identidades mediante un directorio local sincronizado con la nube.
+El objetivo de este laboratorio es diseñar, desplegar y validar una arquitectura de identidad híbrida resiliente sobre Windows Server 2022, automatizar el aprovisionamiento de cuentas y grupos mediante scripts de PowerShell y sincronizar el directorio local con Microsoft Entra ID utilizando Microsoft Entra Connect Sync bajo el modelo de sincronización de hash de contraseñas (Password Hash Synchronization - PHS).
 
 El proyecto también documenta la configuración realizada, las decisiones técnicas y las comprobaciones efectuadas durante el despliegue.
 
