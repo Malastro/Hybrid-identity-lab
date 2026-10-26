@@ -1,4 +1,4 @@
-# Lab_01 Despliegue de Identidad Híbrida: Windows Server 2022 AD DS & Microsoft Entra ID
+# Lab_01: Despliegue de Identidad Híbrida: Windows Server 2022 AD DS & Microsoft Entra ID
 
 ## 1. Descripción del proyecto
 Tras asumir la presidencia de la comunidad con mano de hierro, Antonio Recio descubre que la gestión de vecinos, empleados de Mariscos Recio y personal de mantenimiento se lleva en notas adhesivas pegadas en la garita de Coque y servilletas del Max & Henry. Ante este descontrol operativo —y con las sospechas permanentes sobre las actividades del moroso del 2º C—, la junta directiva aprueba la modernización urgente de la infraestructura tecnológica mediante la centralización de identidades en Active Directory Domain Services (AD DS) y su extensión hacia la nube corporativa con Microsoft Entra ID.
