@@ -3,7 +3,7 @@
 ## 1. Descripción del proyecto
 Tras asumir la presidencia de la comunidad con mano de hierro, Antonio Recio descubre que la gestión de vecinos, empleados de Mariscos Recio y personal de mantenimiento se lleva en notas adhesivas pegadas en la garita de Coque y servilletas del Max & Henry. Ante este descontrol operativo —y con las sospechas permanentes sobre las actividades del moroso del 2º C—, la junta directiva aprueba la modernización urgente de la infraestructura tecnológica mediante la centralización de identidades en Active Directory Domain Services (AD DS) y su extensión hacia la nube corporativa con Microsoft Entra ID.
 
-El objetivo de este laboratorio es diseñar, desplegar y validar una arquitectura de identidad híbrida resiliente sobre Windows Server 2022, automatizar el aprovisionamiento de cuentas y grupos mediante scripts de PowerShell y sincronizar el directorio local con Microsoft Entra ID utilizando Microsoft Entra Connect Sync bajo el modelo de sincronización de hash de contraseñas (Password Hash Synchronization - PHS).
+El objetivo de este laboratorio es diseñar, desplegar y validar una arquitectura de identidad híbrida de laboratorio sobre Windows Server 2022, automatizar el aprovisionamiento de cuentas y grupos mediante scripts de PowerShell y sincronizar el directorio local con Microsoft Entra ID utilizando Microsoft Entra Connect Sync bajo el modelo de sincronización de hash de contraseñas (Password Hash Synchronization - PHS).
 
 El proyecto también documenta la configuración realizada, las decisiones técnicas y las comprobaciones efectuadas durante el despliegue.
 
